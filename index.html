@@ -1,10 +1,17 @@
 <html>
     <head>
         <script src="js/jquery-1.11.0.min.js"></script>
+        <script src="http:////code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
         <script src="js/ICanHaz.min.js"></script>
         <style>
             body {
                 font-size:0.8em;
+            }
+            .container {
+                width:80%;
+            }
+            .filter {
+                width:20%;
             }
             .parlamentar {
                 border:0.1cm solid #000;
@@ -41,10 +48,11 @@
             $.getJSON("data/parlamentares.json", function (parlamentares) {
                 $.each(parlamentares.parlamentares, function(index, p_raw) {
                     var p = ich.parlamentar(p_raw);
-                    $(".container").append(p);                   
+                    $(".filter").append(p);                   
                 });
-            });
 
+                $(".parlamentar").draggable();
+            });
         });
         </script>
     </head>
@@ -62,6 +70,8 @@
                 </div>
             </div>
         </script>
+        <div class="filter">
+        </div>
         <div class="container">
         </div>
         </body>
