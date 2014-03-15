@@ -10,8 +10,8 @@
                 border:0.1cm solid #000;
                 width:5cm;
                 height:1cm;
-                background-color: #666;
-                color:#fff;
+                background-color: #ccc;
+                color:#000;
                 margin-right:0.2cm;
                 margin-bottom:0.1cm;
                 float:left;
@@ -28,6 +28,11 @@
                 font-size:90%;
                 width:30%;
                 text-align: right;
+            }
+
+            .info img {
+                width:32px;
+                height:32px;
             }
         </style>
         <script>
@@ -50,10 +55,10 @@
 
             <div class="parlamentar">
                 <div class="nome">
-                    {{nome}}
+                    {{nome}} {{uf}}
                 </div>
                 <div class="info">
-                    {{partido}}/{{uf}}
+                    <img src="data/partidos/{{partido}}.ico" />
                 </div>
             </div>
         </script>
