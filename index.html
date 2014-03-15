@@ -14,6 +14,14 @@
                     var p = ich.parlamentar(p_raw);
                     $(".filter").append(p);
                 });
+                $(".container").droppable({
+                    accept: '.parlamentar',
+                    drop: function(event, ui) {
+                    console.log(event);
+                    console.log(ui);
+                    $(this).append(ui.draggable.css({'top':event.pageY,'left':event.pageX,'position':'absolute'}));
+                }
+                });
 
                 $(".parlamentar").draggable();
             });
@@ -45,6 +53,17 @@
                 label.draggable();
                 $(".container").append(label);
             });
+
+            $("#filtro").keyup(function (data) {
+                var chave = $("#filtro").val();
+                if (chave.length >= 2) {
+                    $('.filter .parlamentar:not(:contains('+chave+'))').hide();
+                    $('.filter .parlamentar:contains('+chave+')').show();
+                }
+                else if (chave.length == 0) {
+                    $('.filter .parlamentar').show();   
+                }
+            });
         });
         </script>
     </head>
@@ -63,6 +82,7 @@
             </div>
         </script>
         <div class="filter">
+            <input id="filtro" type="text" placeholder="Nome do Parlamentar" />
         </div>
         <div class="container">
             <button class="addLabel">Adicionar Label</button>

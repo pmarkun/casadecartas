@@ -9,6 +9,11 @@ body {
 .filter {
   width:20%;
 }
+
+.label {
+  font-size:1.4em;
+  font-weight: bold;
+}
 .parlamentar {
   border:0.1cm solid #000;
   width:5cm;
