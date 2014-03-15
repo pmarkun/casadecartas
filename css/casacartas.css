@@ -1,29 +1,34 @@
 body {
-    font-size:0.8em;
+  font-size:0.8em;
 }
 .parlamentar {
-    border:0.1cm solid #000;
-    width:5cm;
-    height:1cm;
-    background-color: #666;
-    color:#fff;
-    margin-right:0.2cm;
-    margin-bottom:0.1cm;
-    float:left;
-    cursor:pointer;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
+  border:0.1cm solid #000;
+  width:5cm;
+  height:1cm;
+  background-color: #ccc;
+  color:#000;
+  margin-right:0.2cm;
+  margin-bottom:0.1cm;
+  float:left;
+  cursor:pointer;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
 }
 .nome {
-    float:left;
-    width:70%;
-    overflow: hidden;
-    height:100%;
+  float:left;
+  width:70%;
+  overflow: hidden;
+  height:100%;
 }
 .info {
-    float:right;
-    font-size:90%;
-    width:30%;
-    text-align: right;
+  float:right;
+  font-size:90%;
+  width:30%;
+  text-align: right;
+}
+
+.info img {
+  width:32px;
+  height:32px;
 }
