@@ -1,6 +1,14 @@
 body {
   font-size:0.8em;
 }
+.container {
+  width:80%;
+  height:1024px;
+}
+
+.filter {
+  width:20%;
+}
 .parlamentar {
   border:0.1cm solid #000;
   width:5cm;

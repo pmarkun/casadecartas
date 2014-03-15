@@ -16,6 +16,13 @@
 
                 $(".parlamentar").draggable();
             });
+
+            $(".addLabel").click(function (data) {
+                var label = $("<div class='label' contenteditable>Clique duplo para editar...</div>");
+                label.draggable();
+                $(".container").append(label);
+                
+            });
         });
         </script>
     </head>
@@ -36,6 +43,7 @@
         <div class="filter">
         </div>
         <div class="container">
+            <button class="addLabel">Adicionar Label</button>
         </div>
         </body>
 </html>
