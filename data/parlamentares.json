@@ -1,0 +1,2564 @@
+{
+  "parlamentares" : [
+    {
+      "nome" : "ABELARDO CAMARINHA",
+      "partido" : "PSB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "ABELARDO LUPION",
+      "partido" : "DEM",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "ACELINO POPÓ",
+      "partido" : "PRB",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "ADEMIR CAMILO",
+      "partido" : "PROS",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "ADRIAN",
+      "partido" : "PMDB",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "AELTON FREITAS",
+      "partido" : "PR",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "AFONSO FLORENCE",
+      "partido" : "PT",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "AFONSO HAMM",
+      "partido" : "PP",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "AKIRA OTSUBO",
+      "partido" : "PMDB",
+      "uf" : "MS"
+    },
+    {
+      "nome" : "ALBERTO FILHO",
+      "partido" : "PMDB",
+      "uf" : "MA"
+    },
+    {
+      "nome" : "ALCEU MOREIRA",
+      "partido" : "PMDB",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "ALESSANDRO MOLON",
+      "partido" : "PT",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "ALEX CANZIANI",
+      "partido" : "PTB",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "ALEXANDRE LEITE",
+      "partido" : "DEM",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "ALEXANDRE ROSO",
+      "partido" : "PSB",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "ALEXANDRE SANTOS",
+      "partido" : "PMDB",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "ALEXANDRE TOLEDO",
+      "partido" : "PSB",
+      "uf" : "AL"
+    },
+    {
+      "nome" : "ALFREDO KAEFER",
+      "partido" : "PSDB",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "ALFREDO SIRKIS",
+      "partido" : "PSB",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "ALICE PORTUGAL",
+      "partido" : "PCdoB",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "ALINE CORRÊA",
+      "partido" : "PP",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "ALMEIDA LIMA",
+      "partido" : "PMDB",
+      "uf" : "SE"
+    },
+    {
+      "nome" : "AMAURI TEIXEIRA",
+      "partido" : "PT",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "AMIR LANDO",
+      "partido" : "PMDB",
+      "uf" : "RO"
+    },
+    {
+      "nome" : "ANDERSON FERREIRA",
+      "partido" : "PR",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "ANDRÉ FIGUEIREDO",
+      "partido" : "PDT",
+      "uf" : "CE"
+    },
+    {
+      "nome" : "ANDRE MOURA",
+      "partido" : "PSC",
+      "uf" : "SE"
+    },
+    {
+      "nome" : "ANDRE VARGAS",
+      "partido" : "PT",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "ANDRÉ ZACHAROW",
+      "partido" : "PMDB",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "ANDREIA ZITO",
+      "partido" : "PSDB",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "ÂNGELO AGNOLIN",
+      "partido" : "PDT",
+      "uf" : "TO"
+    },
+    {
+      "nome" : "ANGELO VANHONI",
+      "partido" : "PT",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "ANÍBAL GOMES",
+      "partido" : "PMDB",
+      "uf" : "CE"
+    },
+    {
+      "nome" : "ANSELMO DE JESUS",
+      "partido" : "PT",
+      "uf" : "RO"
+    },
+    {
+      "nome" : "ANTHONY GAROTINHO",
+      "partido" : "PR",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "ANTÔNIA LÚCIA",
+      "partido" : "PSC",
+      "uf" : "AC"
+    },
+    {
+      "nome" : "ANTONIO BALHMANN",
+      "partido" : "PROS",
+      "uf" : "CE"
+    },
+    {
+      "nome" : "ANTONIO BRITO",
+      "partido" : "PTB",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "ANTONIO BULHÕES",
+      "partido" : "PRB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "ANTONIO CARLOS MENDES THAME",
+      "partido" : "PSDB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "ANTONIO IMBASSAHY",
+      "partido" : "PSDB",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "ANTÔNIO ROBERTO",
+      "partido" : "PV",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "ARACELY DE PAULA",
+      "partido" : "PR",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "ARIOSTO HOLANDA",
+      "partido" : "PROS",
+      "uf" : "CE"
+    },
+    {
+      "nome" : "ARLINDO CHINAGLIA",
+      "partido" : "PT",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "ARMANDO VERGÍLIO",
+      "partido" : "SDD",
+      "uf" : "GO"
+    },
+    {
+      "nome" : "ARNALDO FARIA DE SÁ",
+      "partido" : "PTB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "ARNALDO JARDIM",
+      "partido" : "PPS",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "ARNALDO JORDY",
+      "partido" : "PPS",
+      "uf" : "PA"
+    },
+    {
+      "nome" : "ARNON BEZERRA",
+      "partido" : "PTB",
+      "uf" : "CE"
+    },
+    {
+      "nome" : "AROLDE DE OLIVEIRA",
+      "partido" : "PSD",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "ARTHUR OLIVEIRA MAIA",
+      "partido" : "SDD",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "ARTUR BRUNO",
+      "partido" : "PT",
+      "uf" : "CE"
+    },
+    {
+      "nome" : "ASDRUBAL BENTES",
+      "partido" : "PMDB",
+      "uf" : "PA"
+    },
+    {
+      "nome" : "ASSIS CARVALHO",
+      "partido" : "PT",
+      "uf" : "PI"
+    },
+    {
+      "nome" : "ASSIS DO COUTO",
+      "partido" : "PT",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "ASSIS MELO",
+      "partido" : "PCdoB",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "ÁTILA LINS",
+      "partido" : "PSD",
+      "uf" : "AM"
+    },
+    {
+      "nome" : "AUGUSTO CARVALHO",
+      "partido" : "SDD",
+      "uf" : "DF"
+    },
+    {
+      "nome" : "AUGUSTO COUTINHO",
+      "partido" : "SDD",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "AUREO",
+      "partido" : "SDD",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "BENEDITA DA SILVA",
+      "partido" : "PT",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "BENJAMIN MARANHÃO",
+      "partido" : "SDD",
+      "uf" : "PB"
+    },
+    {
+      "nome" : "BERNARDO SANTANA DE VASCONCELLOS",
+      "partido" : "PR",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "BETINHO ROSADO",
+      "partido" : "PP",
+      "uf" : "RN"
+    },
+    {
+      "nome" : "BETO ALBUQUERQUE",
+      "partido" : "PSB",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "BETO FARO",
+      "partido" : "PT",
+      "uf" : "PA"
+    },
+    {
+      "nome" : "BETO MANSUR",
+      "partido" : "PRB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "BIFFI",
+      "partido" : "PT",
+      "uf" : "MS"
+    },
+    {
+      "nome" : "BOHN GASS",
+      "partido" : "PT",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "BONIFÁCIO DE ANDRADA",
+      "partido" : "PSDB",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "BRUNA FURLAN",
+      "partido" : "PSDB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "BRUNO ARAÚJO",
+      "partido" : "PSDB",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "CAMILO COLA",
+      "partido" : "PMDB",
+      "uf" : "ES"
+    },
+    {
+      "nome" : "CÂNDIDO VACCAREZZA",
+      "partido" : "PT",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "CARLOS ALBERTO LERÉIA",
+      "partido" : "PSDB",
+      "uf" : "GO"
+    },
+    {
+      "nome" : "CARLOS BEZERRA",
+      "partido" : "PMDB",
+      "uf" : "MT"
+    },
+    {
+      "nome" : "CARLOS BRANDÃO",
+      "partido" : "PSDB",
+      "uf" : "MA"
+    },
+    {
+      "nome" : "CARLOS EDUARDO CADOCA",
+      "partido" : "PCdoB",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "CARLOS MAGNO",
+      "partido" : "PP",
+      "uf" : "RO"
+    },
+    {
+      "nome" : "CARLOS ROBERTO",
+      "partido" : "PSDB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "CARLOS SAMPAIO",
+      "partido" : "PSDB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "CARLOS SOUZA",
+      "partido" : "PSD",
+      "uf" : "AM"
+    },
+    {
+      "nome" : "CARLOS ZARATTINI",
+      "partido" : "PT",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "CARMEN ZANOTTO",
+      "partido" : "PPS",
+      "uf" : "SC"
+    },
+    {
+      "nome" : "CELSO JACOB",
+      "partido" : "PMDB",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "CELSO MALDANER",
+      "partido" : "PMDB",
+      "uf" : "SC"
+    },
+    {
+      "nome" : "CESAR COLNAGO",
+      "partido" : "PSDB",
+      "uf" : "ES"
+    },
+    {
+      "nome" : "CÉSAR HALUM",
+      "partido" : "PRB",
+      "uf" : "TO"
+    },
+    {
+      "nome" : "CHICO ALENCAR",
+      "partido" : "PSOL",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "CHICO DAS VERDURAS",
+      "partido" : "PRP",
+      "uf" : "RR"
+    },
+    {
+      "nome" : "CHICO LOPES",
+      "partido" : "PCdoB",
+      "uf" : "CE"
+    },
+    {
+      "nome" : "CIDA BORGHETTI",
+      "partido" : "PROS",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "CLAUDIO CAJADO",
+      "partido" : "DEM",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "CLÁUDIO PUTY",
+      "partido" : "PT",
+      "uf" : "PA"
+    },
+    {
+      "nome" : "CLEBER VERDE",
+      "partido" : "PRB",
+      "uf" : "MA"
+    },
+    {
+      "nome" : "COLBERT MARTINS",
+      "partido" : "PMDB",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "COSTA FERREIRA",
+      "partido" : "PSC",
+      "uf" : "MA"
+    },
+    {
+      "nome" : "DALVA FIGUEIREDO",
+      "partido" : "PT",
+      "uf" : "AP"
+    },
+    {
+      "nome" : "DAMIÃO FELICIANO",
+      "partido" : "PDT",
+      "uf" : "PB"
+    },
+    {
+      "nome" : "DANIEL ALMEIDA",
+      "partido" : "PCdoB",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "DANILO FORTE",
+      "partido" : "PMDB",
+      "uf" : "CE"
+    },
+    {
+      "nome" : "DANRLEI DE DEUS HINTERHOLZ",
+      "partido" : "PSD",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "DARCÍSIO PERONDI",
+      "partido" : "PMDB",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "DAVI ALCOLUMBRE",
+      "partido" : "DEM",
+      "uf" : "AP"
+    },
+    {
+      "nome" : "DAVI ALVES SILVA JÚNIOR",
+      "partido" : "PR",
+      "uf" : "MA"
+    },
+    {
+      "nome" : "DÉCIO LIMA",
+      "partido" : "PT",
+      "uf" : "SC"
+    },
+    {
+      "nome" : "DELEGADO PROTÓGENES",
+      "partido" : "PCdoB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "DELEY",
+      "partido" : "PTB",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "DEVANIR RIBEIRO",
+      "partido" : "PT",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "DIEGO ANDRADE",
+      "partido" : "PSD",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "DILCEU SPERAFICO",
+      "partido" : "PP",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "DIMAS FABIANO",
+      "partido" : "PP",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "DOMINGOS DUTRA",
+      "partido" : "SDD",
+      "uf" : "MA"
+    },
+    {
+      "nome" : "DOMINGOS NETO",
+      "partido" : "PROS",
+      "uf" : "CE"
+    },
+    {
+      "nome" : "DOMINGOS SÁVIO",
+      "partido" : "PSDB",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "DR. ADILSON SOARES",
+      "partido" : "PR",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "DR. CARLOS ALBERTO",
+      "partido" : "PMN",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "DR. GRILO",
+      "partido" : "SDD",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "DR. JORGE SILVA",
+      "partido" : "PROS",
+      "uf" : "ES"
+    },
+    {
+      "nome" : "DR. PAULO CÉSAR",
+      "partido" : "PR",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "DR. ROSINHA",
+      "partido" : "PT",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "DR. UBIALI",
+      "partido" : "PSB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "DUARTE NOGUEIRA",
+      "partido" : "PSDB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "DUDIMAR PAXIUBA",
+      "partido" : "PROS",
+      "uf" : "PA"
+    },
+    {
+      "nome" : "EDINHO ARAÚJO",
+      "partido" : "PMDB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "EDINHO BEZ",
+      "partido" : "PMDB",
+      "uf" : "SC"
+    },
+    {
+      "nome" : "EDIO LOPES",
+      "partido" : "PMDB",
+      "uf" : "RR"
+    },
+    {
+      "nome" : "EDMAR ARRUDA",
+      "partido" : "PSC",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "EDMAR MOREIRA",
+      "partido" : "PR",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "EDSON EZEQUIEL",
+      "partido" : "PMDB",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "EDSON PIMENTA",
+      "partido" : "PSD",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "EDSON SANTOS",
+      "partido" : "PT",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "EDSON SILVA",
+      "partido" : "PROS",
+      "uf" : "CE"
+    },
+    {
+      "nome" : "EDUARDO BARBOSA",
+      "partido" : "PSDB",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "EDUARDO CUNHA",
+      "partido" : "PMDB",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "EDUARDO DA FONTE",
+      "partido" : "PP",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "EDUARDO GOMES",
+      "partido" : "SDD",
+      "uf" : "TO"
+    },
+    {
+      "nome" : "EDUARDO SCIARRA",
+      "partido" : "PSD",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "EFRAIM FILHO",
+      "partido" : "DEM",
+      "uf" : "PB"
+    },
+    {
+      "nome" : "ELCIONE BARBALHO",
+      "partido" : "PMDB",
+      "uf" : "PA"
+    },
+    {
+      "nome" : "ELEUSES PAIVA",
+      "partido" : "PSD",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "ELI CORREA FILHO",
+      "partido" : "DEM",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "ELIENE LIMA",
+      "partido" : "PSD",
+      "uf" : "MT"
+    },
+    {
+      "nome" : "ELISEU PADILHA",
+      "partido" : "PMDB",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "EMANUEL FERNANDES",
+      "partido" : "PSDB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "ENIO BACCI",
+      "partido" : "PDT",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "ERIKA KOKAY",
+      "partido" : "PT",
+      "uf" : "DF"
+    },
+    {
+      "nome" : "ERIVELTON SANTANA",
+      "partido" : "PSC",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "EROS BIONDINI",
+      "partido" : "PTB",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "ESPERIDIÃO AMIN",
+      "partido" : "PP",
+      "uf" : "SC"
+    },
+    {
+      "nome" : "EUDES XAVIER",
+      "partido" : "PT",
+      "uf" : "CE"
+    },
+    {
+      "nome" : "EURICO JÚNIOR",
+      "partido" : "PV",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "EVANDRO MILHOMEN",
+      "partido" : "PCdoB",
+      "uf" : "AP"
+    },
+    {
+      "nome" : "FÁBIO FARIA",
+      "partido" : "PSD",
+      "uf" : "RN"
+    },
+    {
+      "nome" : "FÁBIO RAMALHO",
+      "partido" : "PV",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "FABIO REIS",
+      "partido" : "PMDB",
+      "uf" : "SE"
+    },
+    {
+      "nome" : "FÁBIO SOUTO",
+      "partido" : "DEM",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "FÁBIO TRAD",
+      "partido" : "PMDB",
+      "uf" : "MS"
+    },
+    {
+      "nome" : "FÁTIMA BEZERRA",
+      "partido" : "PT",
+      "uf" : "RN"
+    },
+    {
+      "nome" : "FÁTIMA PELAES",
+      "partido" : "PMDB",
+      "uf" : "AP"
+    },
+    {
+      "nome" : "FELIPE BORNIER",
+      "partido" : "PSD",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "FELIPE MAIA",
+      "partido" : "DEM",
+      "uf" : "RN"
+    },
+    {
+      "nome" : "FÉLIX MENDONÇA JÚNIOR",
+      "partido" : "PDT",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "FERNANDO COELHO FILHO",
+      "partido" : "PSB",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "FERNANDO FERRO",
+      "partido" : "PT",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "FERNANDO FRANCISCHINI",
+      "partido" : "SDD",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "FERNANDO JORDÃO",
+      "partido" : "PMDB",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "FERNANDO LOPES",
+      "partido" : "PMDB",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "FERNANDO MARRONI",
+      "partido" : "PT",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "FERNANDO TORRES",
+      "partido" : "PSD",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "FLÁVIA MORAIS",
+      "partido" : "PDT",
+      "uf" : "GO"
+    },
+    {
+      "nome" : "FLAVIANO MELO",
+      "partido" : "PMDB",
+      "uf" : "AC"
+    },
+    {
+      "nome" : "FRANCISCO CHAGAS",
+      "partido" : "PT",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "FRANCISCO ESCÓRCIO",
+      "partido" : "PMDB",
+      "uf" : "MA"
+    },
+    {
+      "nome" : "FRANCISCO FLORIANO",
+      "partido" : "PR",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "FRANCISCO PRACIANO",
+      "partido" : "PT",
+      "uf" : "AM"
+    },
+    {
+      "nome" : "FRANCISCO TENÓRIO",
+      "partido" : "PMN",
+      "uf" : "AL"
+    },
+    {
+      "nome" : "GABRIEL CHALITA",
+      "partido" : "PMDB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "GABRIEL GUIMARÃES",
+      "partido" : "PT",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "GENECIAS NORONHA",
+      "partido" : "SDD",
+      "uf" : "CE"
+    },
+    {
+      "nome" : "GEORGE HILTON",
+      "partido" : "PRB",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "GERALDO RESENDE",
+      "partido" : "PMDB",
+      "uf" : "MS"
+    },
+    {
+      "nome" : "GERALDO SIMÕES",
+      "partido" : "PT",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "GERALDO THADEU",
+      "partido" : "PSD",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "GIACOBO",
+      "partido" : "PR",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "GIOVANI CHERINI",
+      "partido" : "PDT",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "GIOVANNI QUEIROZ",
+      "partido" : "PDT",
+      "uf" : "PA"
+    },
+    {
+      "nome" : "GIVALDO CARIMBÃO",
+      "partido" : "PROS",
+      "uf" : "AL"
+    },
+    {
+      "nome" : "GLADSON CAMELI",
+      "partido" : "PP",
+      "uf" : "AC"
+    },
+    {
+      "nome" : "GLAUBER BRAGA",
+      "partido" : "PSB",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "GONZAGA PATRIOTA",
+      "partido" : "PSB",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "GORETE PEREIRA",
+      "partido" : "PR",
+      "uf" : "CE"
+    },
+    {
+      "nome" : "GUILHERME CAMPOS",
+      "partido" : "PSD",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "GUILHERME MUSSI",
+      "partido" : "PP",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "GUSTAVO PETTA",
+      "partido" : "PCdoB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "HELCIO SILVA",
+      "partido" : "PT",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "HÉLIO SANTOS",
+      "partido" : "PSDB",
+      "uf" : "MA"
+    },
+    {
+      "nome" : "HENRIQUE AFONSO",
+      "partido" : "PV",
+      "uf" : "AC"
+    },
+    {
+      "nome" : "HENRIQUE EDUARDO ALVES",
+      "partido" : "PMDB",
+      "uf" : "RN"
+    },
+    {
+      "nome" : "HENRIQUE FONTANA",
+      "partido" : "PT",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "HENRIQUE OLIVEIRA",
+      "partido" : "SDD",
+      "uf" : "AM"
+    },
+    {
+      "nome" : "HERMES PARCIANELLO",
+      "partido" : "PMDB",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "HEULER CRUVINEL",
+      "partido" : "PSD",
+      "uf" : "GO"
+    },
+    {
+      "nome" : "HUGO LEAL",
+      "partido" : "PROS",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "HUGO MOTTA",
+      "partido" : "PMDB",
+      "uf" : "PB"
+    },
+    {
+      "nome" : "HUGO NAPOLEÃO",
+      "partido" : "PSD",
+      "uf" : "PI"
+    },
+    {
+      "nome" : "HUMBERTO SOUTO",
+      "partido" : "PPS",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "IARA BERNARDI",
+      "partido" : "PT",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "INOCÊNCIO OLIVEIRA",
+      "partido" : "PR",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "IRACEMA PORTELLA",
+      "partido" : "PP",
+      "uf" : "PI"
+    },
+    {
+      "nome" : "IRAJÁ ABREU",
+      "partido" : "PSD",
+      "uf" : "TO"
+    },
+    {
+      "nome" : "IRINY LOPES",
+      "partido" : "PT",
+      "uf" : "ES"
+    },
+    {
+      "nome" : "ÍRIS DE ARAÚJO",
+      "partido" : "PMDB",
+      "uf" : "GO"
+    },
+    {
+      "nome" : "IVAN VALENTE",
+      "partido" : "PSOL",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "IZALCI",
+      "partido" : "PSDB",
+      "uf" : "DF"
+    },
+    {
+      "nome" : "JAIME MARTINS",
+      "partido" : "PSD",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "JAIR BOLSONARO",
+      "partido" : "PP",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "JAIRO ATAÍDE",
+      "partido" : "DEM",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "JANDIRA FEGHALI",
+      "partido" : "PCdoB",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "JANETE CAPIBERIBE",
+      "partido" : "PSB",
+      "uf" : "AP"
+    },
+    {
+      "nome" : "JANETE ROCHA PIETÁ",
+      "partido" : "PT",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "JÂNIO NATAL",
+      "partido" : "PRP",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "JAQUELINE RORIZ",
+      "partido" : "PMN",
+      "uf" : "DF"
+    },
+    {
+      "nome" : "JEAN WYLLYS",
+      "partido" : "PSOL",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "JEFFERSON CAMPOS",
+      "partido" : "PSD",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "JERÔNIMO GOERGEN",
+      "partido" : "PP",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "JESUS RODRIGUES",
+      "partido" : "PT",
+      "uf" : "PI"
+    },
+    {
+      "nome" : "JHONATAN DE JESUS",
+      "partido" : "PRB",
+      "uf" : "RR"
+    },
+    {
+      "nome" : "JÔ MORAES",
+      "partido" : "PCdoB",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "JOÃO ANANIAS",
+      "partido" : "PCdoB",
+      "uf" : "CE"
+    },
+    {
+      "nome" : "JOÃO ARRUDA",
+      "partido" : "PMDB",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "JOÃO BITTAR",
+      "partido" : "DEM",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "JOÃO CALDAS",
+      "partido" : "SDD",
+      "uf" : "AL"
+    },
+    {
+      "nome" : "JOÃO CAMPOS",
+      "partido" : "PSDB",
+      "uf" : "GO"
+    },
+    {
+      "nome" : "JOÃO CARLOS BACELAR",
+      "partido" : "PR",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "JOÃO DADO",
+      "partido" : "SDD",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "JOÃO LEÃO",
+      "partido" : "PP",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "JOÃO LYRA",
+      "partido" : "PSD",
+      "uf" : "AL"
+    },
+    {
+      "nome" : "JOÃO MAGALHÃES",
+      "partido" : "PMDB",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "JOÃO MAIA",
+      "partido" : "PR",
+      "uf" : "RN"
+    },
+    {
+      "nome" : "JOÃO PAULO LIMA",
+      "partido" : "PT",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "JOÃO PIZZOLATTI",
+      "partido" : "PP",
+      "uf" : "SC"
+    },
+    {
+      "nome" : "JORGE BITTAR",
+      "partido" : "PT",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "JORGE BOEIRA",
+      "partido" : "PP",
+      "uf" : "SC"
+    },
+    {
+      "nome" : "JORGE CORTE REAL",
+      "partido" : "PTB",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "JORGE TADEU MUDALEN",
+      "partido" : "DEM",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "JORGINHO MELLO",
+      "partido" : "PR",
+      "uf" : "SC"
+    },
+    {
+      "nome" : "JOSÉ AIRTON",
+      "partido" : "PT",
+      "uf" : "CE"
+    },
+    {
+      "nome" : "JOSÉ AUGUSTO MAIA",
+      "partido" : "PROS",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "JOSÉ CARLOS ARAÚJO",
+      "partido" : "PSD",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "JOSÉ CHAVES",
+      "partido" : "PTB",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "JOSÉ GUIMARÃES",
+      "partido" : "PT",
+      "uf" : "CE"
+    },
+    {
+      "nome" : "JOSÉ HUMBERTO",
+      "partido" : "PSD",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "JOSÉ LINHARES",
+      "partido" : "PP",
+      "uf" : "CE"
+    },
+    {
+      "nome" : "JOSÉ MENTOR",
+      "partido" : "PT",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "JOSÉ NUNES",
+      "partido" : "PSD",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "JOSÉ OTÁVIO GERMANO",
+      "partido" : "PP",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "JOSÉ PRIANTE",
+      "partido" : "PMDB",
+      "uf" : "PA"
+    },
+    {
+      "nome" : "JOSÉ ROCHA",
+      "partido" : "PR",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "JOSE STÉDILE",
+      "partido" : "PSB",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "JOSIAS GOMES",
+      "partido" : "PT",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "JOSUÉ BENGTSON",
+      "partido" : "PTB",
+      "uf" : "PA"
+    },
+    {
+      "nome" : "JOVAIR ARANTES",
+      "partido" : "PTB",
+      "uf" : "GO"
+    },
+    {
+      "nome" : "JÚLIO CAMPOS",
+      "partido" : "DEM",
+      "uf" : "MT"
+    },
+    {
+      "nome" : "JÚLIO CESAR",
+      "partido" : "PSD",
+      "uf" : "PI"
+    },
+    {
+      "nome" : "JÚLIO DELGADO",
+      "partido" : "PSB",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "JÚNIOR COIMBRA",
+      "partido" : "PMDB",
+      "uf" : "TO"
+    },
+    {
+      "nome" : "JUNJI ABE",
+      "partido" : "PSD",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "JUTAHY JUNIOR",
+      "partido" : "PSDB",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "KEIKO OTA",
+      "partido" : "PSB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "LAEL VARELLA",
+      "partido" : "DEM",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "LAERCIO OLIVEIRA",
+      "partido" : "SDD",
+      "uf" : "SE"
+    },
+    {
+      "nome" : "LAURIETE",
+      "partido" : "PSC",
+      "uf" : "ES"
+    },
+    {
+      "nome" : "LÁZARO BOTELHO",
+      "partido" : "PP",
+      "uf" : "TO"
+    },
+    {
+      "nome" : "LEANDRO VILELA",
+      "partido" : "PMDB",
+      "uf" : "GO"
+    },
+    {
+      "nome" : "LELO COIMBRA",
+      "partido" : "PMDB",
+      "uf" : "ES"
+    },
+    {
+      "nome" : "LEONARDO GADELHA",
+      "partido" : "PSC",
+      "uf" : "PB"
+    },
+    {
+      "nome" : "LEONARDO MONTEIRO",
+      "partido" : "PT",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "LEONARDO PICCIANI",
+      "partido" : "PMDB",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "LEONARDO QUINTÃO",
+      "partido" : "PMDB",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "LEOPOLDO MEYER",
+      "partido" : "PSB",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "LILIAM SÁ",
+      "partido" : "PROS",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "LINCOLN PORTELA",
+      "partido" : "PR",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "LIRA MAIA",
+      "partido" : "DEM",
+      "uf" : "PA"
+    },
+    {
+      "nome" : "LOURIVAL MENDES",
+      "partido" : "PTdoB",
+      "uf" : "MA"
+    },
+    {
+      "nome" : "LUCI CHOINACKI",
+      "partido" : "PT",
+      "uf" : "SC"
+    },
+    {
+      "nome" : "LUCIANA SANTOS",
+      "partido" : "PCdoB",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "LUCIANO CASTRO",
+      "partido" : "PR",
+      "uf" : "RR"
+    },
+    {
+      "nome" : "LÚCIO VALE",
+      "partido" : "PR",
+      "uf" : "PA"
+    },
+    {
+      "nome" : "LUCIO VIEIRA LIMA",
+      "partido" : "PMDB",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "LUIS CARLOS HEINZE",
+      "partido" : "PP",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "LUIS TIBÉ",
+      "partido" : "PTdoB",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "LUIZ ALBERTO",
+      "partido" : "PT",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "LUIZ ARGÔLO",
+      "partido" : "SDD",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "LUIZ CARLOS",
+      "partido" : "PSDB",
+      "uf" : "AP"
+    },
+    {
+      "nome" : "LUIZ CARLOS HAULY",
+      "partido" : "PSDB",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "LUIZ COUTO",
+      "partido" : "PT",
+      "uf" : "PB"
+    },
+    {
+      "nome" : "LUIZ DE DEUS",
+      "partido" : "DEM",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "LUIZ FERNANDO FARIA",
+      "partido" : "PP",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "LUIZ FERNANDO MACHADO",
+      "partido" : "PSDB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "LUIZ NISHIMORI",
+      "partido" : "PR",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "LUIZ PITIMAN",
+      "partido" : "PSDB",
+      "uf" : "DF"
+    },
+    {
+      "nome" : "LUIZ SÉRGIO",
+      "partido" : "PT",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "LUIZA ERUNDINA",
+      "partido" : "PSB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "MAGDA MOFATTO",
+      "partido" : "PR",
+      "uf" : "GO"
+    },
+    {
+      "nome" : "MAJOR FÁBIO",
+      "partido" : "PROS",
+      "uf" : "PB"
+    },
+    {
+      "nome" : "MANATO",
+      "partido" : "SDD",
+      "uf" : "ES"
+    },
+    {
+      "nome" : "MANDETTA",
+      "partido" : "DEM",
+      "uf" : "MS"
+    },
+    {
+      "nome" : "MANOEL JUNIOR",
+      "partido" : "PMDB",
+      "uf" : "PB"
+    },
+    {
+      "nome" : "MANOEL SALVIANO",
+      "partido" : "PSD",
+      "uf" : "CE"
+    },
+    {
+      "nome" : "MANUEL ROSA NECA",
+      "partido" : "PR",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "MANUELA D'ÁVILA",
+      "partido" : "PCdoB",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "MARA GABRILLI",
+      "partido" : "PSDB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "MARÇAL FILHO",
+      "partido" : "PMDB",
+      "uf" : "MS"
+    },
+    {
+      "nome" : "MARCELO AGUIAR",
+      "partido" : "DEM",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "MARCELO ALMEIDA",
+      "partido" : "PMDB",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "MARCELO CASTRO",
+      "partido" : "PMDB",
+      "uf" : "PI"
+    },
+    {
+      "nome" : "MARCELO MATOS",
+      "partido" : "PDT",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "MARCIO BITTAR",
+      "partido" : "PSDB",
+      "uf" : "AC"
+    },
+    {
+      "nome" : "MÁRCIO FRANÇA",
+      "partido" : "PSB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "MARCIO JUNQUEIRA",
+      "partido" : "PROS",
+      "uf" : "RR"
+    },
+    {
+      "nome" : "MÁRCIO MACÊDO",
+      "partido" : "PT",
+      "uf" : "SE"
+    },
+    {
+      "nome" : "MÁRCIO MARINHO",
+      "partido" : "PRB",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "MARCO MAIA",
+      "partido" : "PT",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "MARCO TEBALDI",
+      "partido" : "PSDB",
+      "uf" : "SC"
+    },
+    {
+      "nome" : "MARCON",
+      "partido" : "PT",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "MARCOS MEDRADO",
+      "partido" : "SDD",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "MARCOS MONTES",
+      "partido" : "PSD",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "MARCOS ROGÉRIO",
+      "partido" : "PDT",
+      "uf" : "RO"
+    },
+    {
+      "nome" : "MARCUS PESTANA",
+      "partido" : "PSDB",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "MARGARIDA SALOMÃO",
+      "partido" : "PT",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "MARINHA RAUPP",
+      "partido" : "PMDB",
+      "uf" : "RO"
+    },
+    {
+      "nome" : "MÁRIO FEITOZA",
+      "partido" : "PMDB",
+      "uf" : "CE"
+    },
+    {
+      "nome" : "MÁRIO HERINGER",
+      "partido" : "PDT",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "MÁRIO NEGROMONTE",
+      "partido" : "PP",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "MARLLOS SAMPAIO",
+      "partido" : "PMDB",
+      "uf" : "PI"
+    },
+    {
+      "nome" : "MAURÍCIO QUINTELLA LESSA",
+      "partido" : "PR",
+      "uf" : "AL"
+    },
+    {
+      "nome" : "MAURO BENEVIDES",
+      "partido" : "PMDB",
+      "uf" : "CE"
+    },
+    {
+      "nome" : "MAURO LOPES",
+      "partido" : "PMDB",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "MAURO MARIANI",
+      "partido" : "PMDB",
+      "uf" : "SC"
+    },
+    {
+      "nome" : "MENDONÇA FILHO",
+      "partido" : "DEM",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "MENDONÇA PRADO",
+      "partido" : "DEM",
+      "uf" : "SE"
+    },
+    {
+      "nome" : "MIGUEL CORRÊA",
+      "partido" : "PT",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "MILTON MONTI",
+      "partido" : "PR",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "MIRIQUINHO BATISTA",
+      "partido" : "PT",
+      "uf" : "PA"
+    },
+    {
+      "nome" : "MIRO TEIXEIRA",
+      "partido" : "PROS",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "MISSIONÁRIO JOSÉ OLIMPIO",
+      "partido" : "PP",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "MOREIRA MENDES",
+      "partido" : "PSD",
+      "uf" : "RO"
+    },
+    {
+      "nome" : "NAZARENO FONTELES",
+      "partido" : "PT",
+      "uf" : "PI"
+    },
+    {
+      "nome" : "NELSON MARCHEZAN JUNIOR",
+      "partido" : "PSDB",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "NELSON MARQUEZELLI",
+      "partido" : "PTB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "NELSON MEURER",
+      "partido" : "PP",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "NELSON PADOVANI",
+      "partido" : "PSC",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "NELSON PELLEGRINO",
+      "partido" : "PT",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "NEWTON CARDOSO",
+      "partido" : "PMDB",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "NEWTON LIMA",
+      "partido" : "PT",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "NICE LOBÃO",
+      "partido" : "PSD",
+      "uf" : "MA"
+    },
+    {
+      "nome" : "NILDA GONDIM",
+      "partido" : "PMDB",
+      "uf" : "PB"
+    },
+    {
+      "nome" : "NILMÁRIO MIRANDA",
+      "partido" : "PT",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "NILSON LEITÃO",
+      "partido" : "PSDB",
+      "uf" : "MT"
+    },
+    {
+      "nome" : "NILSON PINTO",
+      "partido" : "PSDB",
+      "uf" : "PA"
+    },
+    {
+      "nome" : "NILTON CAPIXABA",
+      "partido" : "PTB",
+      "uf" : "RO"
+    },
+    {
+      "nome" : "ODAIR CUNHA",
+      "partido" : "PT",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "ODÍLIO BALBINOTTI",
+      "partido" : "PMDB",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "ONOFRE SANTO AGOSTINI",
+      "partido" : "PSD",
+      "uf" : "SC"
+    },
+    {
+      "nome" : "ONYX LORENZONI",
+      "partido" : "DEM",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "OSMAR JÚNIOR",
+      "partido" : "PCdoB",
+      "uf" : "PI"
+    },
+    {
+      "nome" : "OSMAR SERRAGLIO",
+      "partido" : "PMDB",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "OSMAR TERRA",
+      "partido" : "PMDB",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "OSVALDO REIS",
+      "partido" : "PMDB",
+      "uf" : "TO"
+    },
+    {
+      "nome" : "OTAVIO LEITE",
+      "partido" : "PSDB",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "OTONIEL LIMA",
+      "partido" : "PRB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "OZIEL OLIVEIRA",
+      "partido" : "PDT",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "PADRE JOÃO",
+      "partido" : "PT",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "PADRE TON",
+      "partido" : "PT",
+      "uf" : "RO"
+    },
+    {
+      "nome" : "PAES LANDIM",
+      "partido" : "PTB",
+      "uf" : "PI"
+    },
+    {
+      "nome" : "PASTOR EURICO",
+      "partido" : "PSB",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "PASTOR MARCO FELICIANO",
+      "partido" : "PSC",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "PAUDERNEY AVELINO",
+      "partido" : "DEM",
+      "uf" : "AM"
+    },
+    {
+      "nome" : "PAULÃO",
+      "partido" : "PT",
+      "uf" : "AL"
+    },
+    {
+      "nome" : "PAULO ABI-ACKEL",
+      "partido" : "PSDB",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "PAULO CESAR QUARTIERO",
+      "partido" : "DEM",
+      "uf" : "RR"
+    },
+    {
+      "nome" : "PAULO FEIJÓ",
+      "partido" : "PR",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "PAULO FERREIRA",
+      "partido" : "PT",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "PAULO FOLETTO",
+      "partido" : "PSB",
+      "uf" : "ES"
+    },
+    {
+      "nome" : "PAULO FREIRE",
+      "partido" : "PR",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "PAULO MAGALHÃES",
+      "partido" : "PSD",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "PAULO MALUF",
+      "partido" : "PP",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "PAULO PEREIRA DA SILVA",
+      "partido" : "SDD",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "PAULO PIMENTA",
+      "partido" : "PT",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "PAULO RUBEM SANTIAGO",
+      "partido" : "PDT",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "PAULO TEIXEIRA",
+      "partido" : "PT",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "PAULO WAGNER",
+      "partido" : "PV",
+      "uf" : "RN"
+    },
+    {
+      "nome" : "PEDRO CHAVES",
+      "partido" : "PMDB",
+      "uf" : "GO"
+    },
+    {
+      "nome" : "PEDRO EUGÊNIO",
+      "partido" : "PT",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "PEDRO NOVAIS",
+      "partido" : "PMDB",
+      "uf" : "MA"
+    },
+    {
+      "nome" : "PEDRO UCZAI",
+      "partido" : "PT",
+      "uf" : "SC"
+    },
+    {
+      "nome" : "PENNA",
+      "partido" : "PV",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "PERPÉTUA ALMEIDA",
+      "partido" : "PCdoB",
+      "uf" : "AC"
+    },
+    {
+      "nome" : "PINTO ITAMARATY",
+      "partido" : "PSDB",
+      "uf" : "MA"
+    },
+    {
+      "nome" : "POLICARPO",
+      "partido" : "PT",
+      "uf" : "DF"
+    },
+    {
+      "nome" : "PROFESSOR SÉRGIO DE OLIVEIRA",
+      "partido" : "PSC",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "PROFESSOR SETIMO",
+      "partido" : "PMDB",
+      "uf" : "MA"
+    },
+    {
+      "nome" : "PROFESSORA DORINHA SEABRA REZENDE",
+      "partido" : "DEM",
+      "uf" : "TO"
+    },
+    {
+      "nome" : "RAIMUNDO GOMES DE MATOS",
+      "partido" : "PSDB",
+      "uf" : "CE"
+    },
+    {
+      "nome" : "RAUL HENRY",
+      "partido" : "PMDB",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "RAUL LIMA",
+      "partido" : "PP",
+      "uf" : "RR"
+    },
+    {
+      "nome" : "REBECCA GARCIA",
+      "partido" : "PP",
+      "uf" : "AM"
+    },
+    {
+      "nome" : "REGINALDO LOPES",
+      "partido" : "PT",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "REGUFFE",
+      "partido" : "PDT",
+      "uf" : "DF"
+    },
+    {
+      "nome" : "REINALDO AZAMBUJA",
+      "partido" : "PSDB",
+      "uf" : "MS"
+    },
+    {
+      "nome" : "RENAN FILHO",
+      "partido" : "PMDB",
+      "uf" : "AL"
+    },
+    {
+      "nome" : "RENATO ANDRADE",
+      "partido" : "PP",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "RENATO MOLLING",
+      "partido" : "PP",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "RENATO SIMÕES",
+      "partido" : "PT",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "RENZO BRAZ",
+      "partido" : "PP",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "RICARDO BERZOINI",
+      "partido" : "PT",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "RICARDO IZAR",
+      "partido" : "PSD",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "RICARDO TRIPOLI",
+      "partido" : "PSDB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "ROBERTO BALESTRA",
+      "partido" : "PP",
+      "uf" : "GO"
+    },
+    {
+      "nome" : "ROBERTO BRITTO",
+      "partido" : "PP",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "ROBERTO DE LUCENA",
+      "partido" : "PV",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "ROBERTO DORNER",
+      "partido" : "PSD",
+      "uf" : "MT"
+    },
+    {
+      "nome" : "ROBERTO FREIRE",
+      "partido" : "PPS",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "ROBERTO SANTIAGO",
+      "partido" : "PSD",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "ROBERTO TEIXEIRA",
+      "partido" : "PP",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "RODRIGO DE CASTRO",
+      "partido" : "PSDB",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "RODRIGO MAIA",
+      "partido" : "DEM",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "ROGÉRIO CARVALHO",
+      "partido" : "PT",
+      "uf" : "SE"
+    },
+    {
+      "nome" : "ROGÉRIO PENINHA MENDONÇA",
+      "partido" : "PMDB",
+      "uf" : "SC"
+    },
+    {
+      "nome" : "ROMÁRIO",
+      "partido" : "PSB",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "RONALDO BENEDET",
+      "partido" : "PMDB",
+      "uf" : "SC"
+    },
+    {
+      "nome" : "RONALDO CAIADO",
+      "partido" : "DEM",
+      "uf" : "GO"
+    },
+    {
+      "nome" : "RONALDO FONSECA",
+      "partido" : "PROS",
+      "uf" : "DF"
+    },
+    {
+      "nome" : "RONALDO NOGUEIRA",
+      "partido" : "PTB",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "RONALDO ZULKE",
+      "partido" : "PT",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "ROSANE FERREIRA",
+      "partido" : "PV",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "ROSE DE FREITAS",
+      "partido" : "PMDB",
+      "uf" : "ES"
+    },
+    {
+      "nome" : "ROSINHA DA ADEFAL",
+      "partido" : "PTdoB",
+      "uf" : "AL"
+    },
+    {
+      "nome" : "RUBENS BUENO",
+      "partido" : "PPS",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "RUBENS OTONI",
+      "partido" : "PT",
+      "uf" : "GO"
+    },
+    {
+      "nome" : "RUY CARNEIRO",
+      "partido" : "PSDB",
+      "uf" : "PB"
+    },
+    {
+      "nome" : "SABINO CASTELO BRANCO",
+      "partido" : "PTB",
+      "uf" : "AM"
+    },
+    {
+      "nome" : "SÁGUAS MORAES",
+      "partido" : "PT",
+      "uf" : "MT"
+    },
+    {
+      "nome" : "SALVADOR ZIMBALDI",
+      "partido" : "PROS",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "SANDES JÚNIOR",
+      "partido" : "PP",
+      "uf" : "GO"
+    },
+    {
+      "nome" : "SANDRA ROSADO",
+      "partido" : "PSB",
+      "uf" : "RN"
+    },
+    {
+      "nome" : "SANDRO ALEX",
+      "partido" : "PPS",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "SANDRO MABEL",
+      "partido" : "PMDB",
+      "uf" : "GO"
+    },
+    {
+      "nome" : "SARAIVA FELIPE",
+      "partido" : "PMDB",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "SARNEY FILHO",
+      "partido" : "PV",
+      "uf" : "MA"
+    },
+    {
+      "nome" : "SEBASTIÃO BALA ROCHA",
+      "partido" : "SDD",
+      "uf" : "AP"
+    },
+    {
+      "nome" : "SÉRGIO BRITO",
+      "partido" : "PSD",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "SERGIO GUERRA",
+      "partido" : "PSDB",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "SÉRGIO MORAES",
+      "partido" : "PTB",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "SERGIO ZVEITER",
+      "partido" : "PSD",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "SEVERINO NINHO",
+      "partido" : "PSB",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "SIBÁ MACHADO",
+      "partido" : "PT",
+      "uf" : "AC"
+    },
+    {
+      "nome" : "SILAS BRASILEIRO",
+      "partido" : "PMDB",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "SILAS CÂMARA",
+      "partido" : "PSD",
+      "uf" : "AM"
+    },
+    {
+      "nome" : "SILVIO COSTA",
+      "partido" : "PSC",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "SIMÃO SESSIM",
+      "partido" : "PP",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "SIMPLÍCIO ARAÚJO",
+      "partido" : "SDD",
+      "uf" : "MA"
+    },
+    {
+      "nome" : "STEFANO AGUIAR",
+      "partido" : "PSB",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "STEPAN NERCESSIAN",
+      "partido" : "PPS",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "SUELI VIDIGAL",
+      "partido" : "PDT",
+      "uf" : "ES"
+    },
+    {
+      "nome" : "TAKAYAMA",
+      "partido" : "PSC",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "TAUMATURGO LIMA",
+      "partido" : "PT",
+      "uf" : "AC"
+    },
+    {
+      "nome" : "THIAGO PEIXOTO",
+      "partido" : "PSD",
+      "uf" : "GO"
+    },
+    {
+      "nome" : "TIRIRICA",
+      "partido" : "PR",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "TONINHO PINHEIRO",
+      "partido" : "PP",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "URZENI ROCHA",
+      "partido" : "PSD",
+      "uf" : "RR"
+    },
+    {
+      "nome" : "VALADARES FILHO",
+      "partido" : "PSB",
+      "uf" : "SE"
+    },
+    {
+      "nome" : "VALDIR COLATTO",
+      "partido" : "PMDB",
+      "uf" : "SC"
+    },
+    {
+      "nome" : "VALMIR ASSUNÇÃO",
+      "partido" : "PT",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "VALTENIR PEREIRA",
+      "partido" : "PROS",
+      "uf" : "MT"
+    },
+    {
+      "nome" : "VANDER LOUBET",
+      "partido" : "PT",
+      "uf" : "MS"
+    },
+    {
+      "nome" : "VANDERLEI MACRIS",
+      "partido" : "PSDB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "VANDERLEI SIRAQUE",
+      "partido" : "PT",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "VAZ DE LIMA",
+      "partido" : "PSDB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "VICENTE ARRUDA",
+      "partido" : "PROS",
+      "uf" : "CE"
+    },
+    {
+      "nome" : "VICENTE CANDIDO",
+      "partido" : "PT",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "VICENTINHO",
+      "partido" : "PT",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "VIEIRA DA CUNHA",
+      "partido" : "PDT",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "VILALBA",
+      "partido" : "PP",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "VILMAR ROCHA",
+      "partido" : "PSD",
+      "uf" : "GO"
+    },
+    {
+      "nome" : "VILSON COVATTI",
+      "partido" : "PP",
+      "uf" : "RS"
+    },
+    {
+      "nome" : "VINICIUS GURGEL",
+      "partido" : "PR",
+      "uf" : "AP"
+    },
+    {
+      "nome" : "VITOR PAULO",
+      "partido" : "PRB",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "VITOR PENIDO",
+      "partido" : "DEM",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "WALDENOR PEREIRA",
+      "partido" : "PT",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "WALDIR MARANHÃO",
+      "partido" : "PP",
+      "uf" : "MA"
+    },
+    {
+      "nome" : "WALNEY ROCHA",
+      "partido" : "PTB",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "WALTER IHOSHI",
+      "partido" : "PSD",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "WALTER TOSTA",
+      "partido" : "PSD",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "WANDENKOLK GONÇALVES",
+      "partido" : "PSDB",
+      "uf" : "PA"
+    },
+    {
+      "nome" : "WASHINGTON REIS",
+      "partido" : "PMDB",
+      "uf" : "RJ"
+    },
+    {
+      "nome" : "WELITON PRADO",
+      "partido" : "PT",
+      "uf" : "MG"
+    },
+    {
+      "nome" : "WELLINGTON FAGUNDES",
+      "partido" : "PR",
+      "uf" : "MT"
+    },
+    {
+      "nome" : "WELLINGTON ROBERTO",
+      "partido" : "PR",
+      "uf" : "PB"
+    },
+    {
+      "nome" : "WEVERTON ROCHA",
+      "partido" : "PDT",
+      "uf" : "MA"
+    },
+    {
+      "nome" : "WILLIAM DIB",
+      "partido" : "PSDB",
+      "uf" : "SP"
+    },
+    {
+      "nome" : "WILSON FILHO",
+      "partido" : "PTB",
+      "uf" : "PB"
+    },
+    {
+      "nome" : "WLADIMIR COSTA",
+      "partido" : "SDD",
+      "uf" : "PA"
+    },
+    {
+      "nome" : "WOLNEY QUEIROZ",
+      "partido" : "PDT",
+      "uf" : "PE"
+    },
+    {
+      "nome" : "ZÉ GERALDO",
+      "partido" : "PT",
+      "uf" : "PA"
+    },
+    {
+      "nome" : "ZÉ VIEIRA",
+      "partido" : "PROS",
+      "uf" : "MA"
+    },
+    {
+      "nome" : "ZECA DIRCEU",
+      "partido" : "PT",
+      "uf" : "PR"
+    },
+    {
+      "nome" : "ZEQUINHA MARINHO",
+      "partido" : "PSC",
+      "uf" : "PA"
+    },
+    {
+      "nome" : "ZEZÉU RIBEIRO",
+      "partido" : "PT",
+      "uf" : "BA"
+    },
+    {
+      "nome" : "ZOINHO",
+      "partido" : "PR",
+      "uf" : "RJ"
+    }
+  ]
+}

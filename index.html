@@ -1,0 +1,63 @@
+<html>
+    <head>
+        <script src="js/jquery-1.11.0.min.js"></script>
+        <script src="js/ICanHaz.min.js"></script>
+        <style>
+            body {
+                font-size:0.8em;
+            }
+            .parlamentar {
+                border:0.1cm solid #000;
+                width:5cm;
+                height:1cm;
+                background-color: #666;
+                color:#fff;
+                margin-right:0.2cm;
+                margin-bottom:0.1cm;
+                float:left;
+                cursor:pointer;
+            }
+            .nome {
+                float:left;
+                width:70%;
+                overflow: hidden;
+                height:100%;
+            }
+            .info {
+                float:right;
+                font-size:90%;
+                width:30%;
+                text-align: right;
+            }
+        </style>
+        <script>
+        $().ready(function () {
+
+            $.getJSON("data/parlamentares.json", function (parlamentares) {
+                $.each(parlamentares.parlamentares, function(index, p_raw) {
+                    var p = ich.parlamentar(p_raw);
+                    $(".container").append(p);                   
+                });
+            });
+
+        });
+        </script>
+    </head>
+
+    <body>
+                <center><h1>Casa de Cartas</h1></center>
+        <script id="parlamentar" type="text/html">
+
+            <div class="parlamentar">
+                <div class="nome">
+                    {{nome}}
+                </div>
+                <div class="info">
+                    {{partido}}/{{uf}}
+                </div>
+            </div>
+        </script>
+        <div class="container">
+        </div>
+        </body>
+</html>
