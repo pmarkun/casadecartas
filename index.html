@@ -6,22 +6,44 @@
         <link rel="stylesheet" href="css/reset.css"/>
         <link rel="stylesheet" href="css/casacartas.css"/>
         <script>
+        current_operation = {'drag':true, 'edit':false};
         $().ready(function () {
 
             $.getJSON("data/parlamentares.json", function (parlamentares) {
                 $.each(parlamentares.parlamentares, function(index, p_raw) {
                     var p = ich.parlamentar(p_raw);
-                    $(".filter").append(p);                   
+                    $(".filter").append(p);
                 });
 
                 $(".parlamentar").draggable();
             });
+            function toggleOperation(){
+              if (current_operation['drag']) {
+                $('.label').draggable('disable');
+                $('.label').attr('contentEditable','true');
+                current_operation['drag'] = false;
+                current_operation['edit'] = true;
+                $(".editLabel")[0].childNodes[0].textContent = "Arrastar Labels";
+              } else {
+                $('.label').draggable('enable');
+                $('.label').attr('contentEditable','false');
+                current_operation['drag'] = true;
+                current_operation['edit'] = false;
+                $(".editLabel")[0].childNodes[0].textContent = "Editar Labels";
+              }
+            }
+
+            $(".editLabel").click(function () {
+                toggleOperation();
+            });
 
             $(".addLabel").click(function (data) {
-                var label = $("<div class='label' contenteditable>Clique duplo para editar...</div>");
+                if (!current_operation['drag']) {
+                  toggleOperation();
+                }
+                var label = $("<div class='label drag'>Clique duplo para editar...</div>");
                 label.draggable();
                 $(".container").append(label);
-                
             });
         });
         </script>
@@ -44,6 +66,7 @@
         </div>
         <div class="container">
             <button class="addLabel">Adicionar Label</button>
+            <button class="editLabel">Editar labels</button>
         </div>
         </body>
 </html>
