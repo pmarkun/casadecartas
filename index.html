@@ -49,8 +49,10 @@
                 if (!current_operation['drag']) {
                   toggleOperation();
                 }
-                var label = $("<div class='label drag'>Clique duplo para editar...</div>");
+                i = $(".label").length + 1
+                var label = $("<div class='label drag' alt='Grupo " + i + " - clique e segure para arrastar'>Grupo " + i + "<br/><span style='font-size: 0.5em; font-weight: normal;'>Clique e segure para arrastar</span></div>");
                 label.draggable();
+                label.resizable();
                 $(".container").append(label);
             });
 
