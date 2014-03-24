@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <script src="js/jquery-1.11.0.min.js"></script>
+        <script src="http:////code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+        <script src="js/ICanHaz.min.js"></script>
+        <link rel="stylesheet" href="css/reset.css"/>
+        <link rel="stylesheet" href="css/casacartas_print.css"/>
+        <script>
+        $().ready(function () {
+            $.getJSON("data/parlamentares.json", function (parlamentares) {
+                $.each(parlamentares.parlamentares, function(index, p_raw) {
+                    
+                    // TODO: pegar cores reais do basometro
+                    p_raw.baso = "#ddd";
+                    
+                    var p = ich.parlamentar(p_raw);
+                    $(".print-list").append(p);
+                });
+            });
+        });
+        </script>
+    </head>
+
+    <body>
+        <script id="parlamentar" type="text/html">
+
+            <div class="parlamentar">
+                <div class="partido">
+                    {{partido}}
+                    <div class= "logo" style="background-image: url('data/partidos/{{partido}}.ico')"></div>
+                </div>
+                <div class="details">
+                    <div class="nome">{{nome}}</div>
+                    <div class="uf">{{uf}}</div>
+                    <div class="baso" style="background-color: {{baso}}"></div>                
+                </div>
+                
+            </div>
+        </script>
+        <div class="print-list">
+            
+        </div>
+        </body>
+</html>
