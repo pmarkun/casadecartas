@@ -20,6 +20,7 @@ div {
   float:left;
     position:relative;
     margin:1px;
+    page-break-inside: avoid;
 }
 .details {
     position: relative;
