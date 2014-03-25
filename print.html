@@ -10,6 +10,7 @@
             $.getJSON("data/parlamentares.json", function (parlamentares) {
                 $.each(parlamentares.parlamentares, function(index, p_raw) {
                     
+                    p_raw.index = index+1;                    
                     // TODO: pegar cores reais do basometro
                     p_raw.baso = "#ddd";
                     
@@ -31,6 +32,7 @@
                 </div>
                 <div class="details">
                     <div class="nome">{{nome}}</div>
+                    <div class="index">{{index}}</div>
                     <div class="uf">{{uf}}</div>
                     <div class="baso" style="background-color: {{baso}}"></div>                
                 </div>

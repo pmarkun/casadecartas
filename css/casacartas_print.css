@@ -3,7 +3,7 @@ body, html, .filter {
   min-height: 100%;
 }
 body {
-  font-size:0.7em;
+  font-size:0.65em;
     font-family: Arial;
 }
 
@@ -44,6 +44,14 @@ div {
   position: absolute;
     right: 15px;
     bottom:5px;
+}
+
+.index {
+    position: absolute;
+    right: 15px;
+    top:5px;
+    color: #999;
+    
 }
 .baso {
     position:absolute;
